@@ -19,7 +19,7 @@
 ---
 |Name|Things assigned to be bought|
 |----|----------------------------|
-|Ram |ballons,candles             |
+|Sid |ballons,candles             |
 |Sita|snow spray,donuts           |
 |John|red velvet cake             |
 |Jack|birthday caps               |
@@ -47,6 +47,8 @@
 ![banner](https://i.pinimg.com/236x/af/3f/b3/af3fb3a8f6c89a5969c4355d765cf18d.jpg)
 
 >Be on spot at the right time guys , it is going to be a tremendous party :)
+
+
 
 
 
