@@ -38,9 +38,9 @@
 
 ![ballons](https://i.etsystatic.com/5157950/r/il/a59f9c/1809832287/il_570xN.1809832287_3sb8.jpg)
 
-* red velvet cake
 
-![cake](https://www.cakegift.in/sites/default/files/strawberry_cheese_cake_1.jpg)
+
+
 
 * birthday banner
 
