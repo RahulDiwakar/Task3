@@ -1,7 +1,7 @@
 # *Birthday party time* 
 ## *List for the party*
 >IT'S SOFIA SWEET 16
-### *Surprise birthday party*
+### *Surprise party*
 
 ---
 **Items to be bought**
