@@ -8,7 +8,7 @@
 1. ballons
 1. birthday caps
 1. colour papers
-1. snow spray
+1. snow sprays
 1. red velvet cake
 1. party lights
 1. birthday banner
