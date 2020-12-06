@@ -19,7 +19,7 @@
 ---
 |Name|Things assigned to be bought|
 |----|----------------------------|
-|Sid |ballons,candles             |
+|Sid |balloons,candles            |
 |Sita|snow spray,donuts           |
 |John|red velvet cake             |
 |Jack|birthday caps               |
@@ -34,7 +34,7 @@
  
 ![white chocolate](https://lovingitvegan.com/wp-content/uploads/2019/04/Vegan-White-Chocolate-7.jpg)
 
-* ballons
+* balloons
 
 ![ballons](https://i.etsystatic.com/5157950/r/il/a59f9c/1809832287/il_570xN.1809832287_3sb8.jpg)
 
@@ -47,6 +47,7 @@
 ![banner](https://i.pinimg.com/236x/af/3f/b3/af3fb3a8f6c89a5969c4355d765cf18d.jpg)
 
 >Be on spot at the right time guys , it is going to be a tremendous party :)
+
 
 
 
